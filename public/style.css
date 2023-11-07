@@ -1,0 +1,13 @@
+h2{
+    text-align: center;
+}
+.posts{
+    background-color: antiquewhite;
+}
+.create-post{
+    width: 400px;
+    height: 500px;
+    background-color: aliceblue;
+    margin: auto;
+    padding: 50px;
+}
