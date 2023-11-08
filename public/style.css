@@ -3,11 +3,15 @@ h2{
 }
 .posts{
     background-color: antiquewhite;
+    height: 150px;
 }
-.create-post{
+.create-posts{
     width: 400px;
     height: 500px;
     background-color: aliceblue;
     margin: auto;
     padding: 50px;
+}
+.posts a{
+    margin-bottom: 20px;
 }
